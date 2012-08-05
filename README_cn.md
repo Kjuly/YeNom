@@ -1,53 +1,54 @@
 YeNom
 =====
 
-Project Page for YeNom - A cash recording utility on iOS.
+YeNom - 一个iOS上简单方便的记帐工具。
 
-# Description
+# 介绍
 
-It is a simple tool which records your daily spending.
+一个iOS上简单方便的记帐工具。
 
-[__View In App Store__](http://itunes.apple.com/cn/app/yenom/id543028543?ls=1&mt=8)
+[__进入应用商店__](http://itunes.apple.com/cn/app/yenom/id543028543?ls=1&mt=8)
 
-# Usage
+# 操作说明
 
-__Root View__:
+__主界面__：
 
-  - Drag the table view down (up) and hold a second to open the record setting view for income (expenses);
-  - You can change the time in settings view, and there're three options (0.5s, 1.0s, 1.5s) available.
+  - 向下（上）拖动记录列表后停留一秒种，打开收入（支出）的记录设置页面；
+  - 停留时间可以在设置页面进行修改，含0.5秒、1.0秒、1.5秒三个选项。
 
-__Tag View__:
+__标签界面__：
 
-  - Drag the table view down to add a new tag.
+  - 向下拖动标签列表添加新标签。
 
-__Data Management__:
-  - You can clean all __records__ or __tags__ in settings view's "__Data Management__" section;
-  - Photos are stored in Albums with the name of "__YeNom Photo Lib__";  
-**Note**: _Photo related features haven't managed very well right now, sorry for that!_
+__数据管理__：
 
-# Change Log
+  - 可在设置页面的“__数据管理__”部分中，对所有的__记录__和__标签__进行清空；
+  - 所有照片都存储于一个专门的相册（“__YeNom Photo Lib__”）中；  
+**注**: _由于时间关系，照片相关功能还未完善，存在一些问题，对此请您谅解！_
 
-__v1.5.x @ Dev__
+# 更新日志
 
-  - Add iCloud;
-  - Enable to delete a single record.
+__v1.5.x @ 开发中__
 
-__v1.4.3 @ Review__
+  - 加入iCloud；
+  - 允许删除单条记录。
 
-  - Add some help views for gestures;
-  - Fix a bug: Adding the first record leads the font size to be wrong;
-  - Remove `+` / `-` button in the root view, use drag-and-hold gesture only;
-  - Part UI modified;
-  - Add In-App Purchase for donation.
+__v1.4.3 @ 审核中__
+
+  - 加入一些手势相关的帮助页面；
+  - 修复一个错误：清空记录后再添加一个新记录后，字体大小错误；
+  - 移除主界面左上角的`+` / `-`按钮，只使用拖动手势来添加记录；
+  - 修改了部分界面；
+  - 将捐赠以应用内购买的形式加入到设置页面中。
 
 __v1.2.4 @ 2012-07-26__
 
-  - The first released version on App Store.
+  - 应用商店初始版本。
 
-# Feedback
+# 反馈
 
-Please email your comments, suggestions and questions to `dev#kjuly.com`.  
-Or you can just post a bug report or a feature request [__HERE__](https://github.com/Kjuly/YeNom/issues/new).
+您可以将对该应用的评价、建议或者问题以邮件的形式发送到`dev#kjuly.com`。  
+或者，您可以直接在 [__此处__](https://github.com/Kjuly/YeNom/issues/new) 进行错误的反馈和新特性的建议。
 
-Thank you! :)
+谢谢！ :)
 
