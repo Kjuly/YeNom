@@ -2,8 +2,8 @@
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  font:14px/1.5 Arial, sans-serif;
+  color:#363636;
   font-weight:300;
 }
 
@@ -33,9 +33,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#5782c2;
   font-weight:400;
   text-decoration:none;
+}
+a strong {
+  color:#5782c2;
 }
 
 a small {
@@ -58,9 +61,14 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color:#333;
   font-size:12px;
+
+  padding:1px 5px;
+  background: #f8f8f8;  
+  border-radius:3px;
+  border:1px solid #e5e5e5;
+  overflow-x: auto;
 }
 
 pre {
@@ -126,6 +134,14 @@ header li {
   float:left;
   border-right:1px solid #d2d2d2;
   height:40px;
+  border-radius:5px 0 0 5px;
+}
+
+header ul li + li {
+  width:134px;
+  border-left:1px solid #fff;
+  border-right:none;
+  border-radius:0 5px 5px 0;
 }
 
 header li.curr {
@@ -138,18 +154,13 @@ header ul a {
   color:#999;
   display:block;
   text-align:center;
-  padding-top:6px;
+  padding-top:12px;
   height:40px;
 }
 
 strong {
   color:#222;
   font-weight:700;
-}
-
-header ul li + li {
-  width:133px;/*88px;*/
-  border-left:1px solid #fff;
 }
 
 /*header ul li + li + li {
