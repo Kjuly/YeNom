@@ -9,8 +9,6 @@ It is a simple tool which records your daily spending.
 
 [__View In App Store__](http://itunes.apple.com/cn/app/yenom/id543028543?ls=1&mt=8)
 
-© 2012 Kjuly
-
 # Usage
 
 __Root View__:
@@ -21,6 +19,7 @@ __Root View__:
 __Tag View__:
 
   - Drag the table view down to add a new tag.
+
 __Data Management__:
   - You can clean all __records__ or __tags__ in settings view's "__Data Management__" section;
   - Photos are stored in Albums with the name of "__YeNom Photo Lib__";  
@@ -37,7 +36,7 @@ __v1.4.3 @ Review__
 
   - Add some help views for gestures;
   - Fix a bug: Adding the first record leads the font size to be wrong;
-  - Remove +/- button in the root view, use tap-and-hold gesture only;
+  - Remove `+` / `-` button in the root view, use drag-and-hold gesture only;
   - Part UI modified;
   - Add In-App Purchase for donation.
 
@@ -47,9 +46,8 @@ __v1.2.4 @ 2012-07-26__
 
 # Feedback
 
-I'd love your feedback. Email your comments, suggestions and questions to `dev#kjuly.com`.  
+Please email your comments, suggestions and questions to `dev#kjuly.com`.  
 Or you can just post a bug report or a feature request [__HERE__](https://github.com/Kjuly/YeNom/issues/new).
 
 Thank you! :)
-
 
