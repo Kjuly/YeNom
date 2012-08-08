@@ -27,7 +27,11 @@ __Data Management__:
 
 # Change Log
 
-__v1.5.x @ Dev__
+__v1.6.x @ Dev__
+
+  - Modify statistics view.
+
+__v1.5.x @ Dev - Beta Test > [Apply](https://testflightapp.com/join/66e9a8d90aa54268ca89adbdfc457ab6-MTAyODU2/)__
 
   - Add iCloud;
   - Enable to delete a single record.

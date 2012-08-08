@@ -28,7 +28,11 @@ __数据管理__：
 
 # 更新日志
 
-__v1.5.x @ 开发中__
+__v1.6.x @ 开发中__
+
+  - 完善统计页面。
+
+__v1.5.x @ 开发中 - 内测 > [申请](https://testflightapp.com/join/66e9a8d90aa54268ca89adbdfc457ab6-MTAyODU2/)__
 
   - 加入iCloud；
   - 允许删除单条记录。
