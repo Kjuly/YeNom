@@ -33,6 +33,7 @@ __v1.6.x @ Dev__
 
 __v1.5.x @ Dev - Beta Test > [Apply](https://testflightapp.com/join/66e9a8d90aa54268ca89adbdfc457ab6-MTAyODU2/)__
 
+  - Enable user to toggle iCloud service;
   - Add iCloud;
   - Enable to delete a single record.
 
