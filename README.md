@@ -37,7 +37,7 @@ __v1.5.x @ Dev - Beta Test > [Apply](https://testflightapp.com/join/66e9a8d90aa5
   - Add iCloud;
   - Enable to delete a single record.
 
-__v1.4.3 @ Review__
+__v1.4.3 @ 2012-08-09__
 
   - Add some help views for gestures;
   - Fix a bug: Adding the first record leads the font size to be wrong;
