@@ -27,11 +27,22 @@ __Data Management__:
 
 # Change Log
 
-__v1.6.x @ Dev__
+__v1.7.x @ Dev__
 
-  - Modify statistics view.
+  - ...
 
-__v1.5.x @ Dev - Beta Test > [Apply](https://testflightapp.com/join/66e9a8d90aa54268ca89adbdfc457ab6-MTAyODU2/)__
+__v1.6.x @ Review__
+
+  - Fix bug: Selecting a row in one section leads the same row of another section to expand either;
+  - Fix bug for statistics: Double count for 00:00 and 24:00;
+  - Fix bug: Delete the data at 00:00 of next month incorrectly while deleting one month's data;
+  - Allow user to delete all records for one month; 
+  - Rename "Delay Time for Swipe Gesture" to "Delay TIme" in settings view;
+  - Optimize performance;
+  - Support year setting in statistics view;
+  - Modify statistics view: support month & day statistics.
+
+__v1.5.x @ Beta Test > [Apply](https://testflightapp.com/join/66e9a8d90aa54268ca89adbdfc457ab6-MTAyODU2/)__
 
   - Allow user to toggle iCloud service;
   - Add iCloud;
