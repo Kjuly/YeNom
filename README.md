@@ -31,7 +31,7 @@ __v1.7.x @ Dev__
 
   - ...
 
-__v1.6.x @ Review__
+__v1.6.8 @ 2012-08-23__
 
   - Fix bug: Selecting a row in one section leads the same row of another section to expand either;
   - Fix bug for statistics: Double count for 00:00 and 24:00;
@@ -42,7 +42,7 @@ __v1.6.x @ Review__
   - Support year setting in statistics view;
   - Modify statistics view: support month & day statistics.
 
-__v1.5.x @ Beta Test > [Apply](https://testflightapp.com/join/66e9a8d90aa54268ca89adbdfc457ab6-MTAyODU2/)__
+__v1.5.4 @ 2012-08-23__
 
   - Allow user to toggle iCloud service;
   - Add iCloud;
