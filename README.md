@@ -14,22 +14,46 @@ It is a simple tool which records your daily spending.
 __Root View__:
 
   - Drag the table view down (up) and hold a second to open the record setting view for income (expenses);
-  - You can change the time in settings view, and there're three options (0.5s, 1.0s, 1.5s) available.
+  - You can change the delay time in settings view, and there're three options (Fast, Normal, Slow) available.
+
+__Keyboard__:
+
+  - __Delete Backward__: Swipe RIGHT on keyboard or text field;
+  - __Recover Backward__: Swipe LEFT;
+  - __Calculation__: This feature is included in "Full Features" package, which is needed to purchase.
 
 __Tag View__:
 
   - Drag the table view down to add a new tag.
 
-__Data Management__:
-  - You can clean all __records__ or __tags__ in settings view's "__Data Management__" section;
+__Data Management__:  
+
+  - You can clean all __records__ or __tags__ in settings view's "__Data Management__" section;  
   - Photos are stored in Albums with the name of "__YeNom Photo Lib__";  
-**Note**: _Photo related features haven't managed very well right now, sorry for that!_
+**Note**: _Photo related features haven't managed very well right now, sorry for that!_  
+  - If iCloud is enabled, data will be stored on remote server. You can get the storage info through your ___"Settings.App" -> "iCloud" -> "Storage & Backup" -> "Manage Storage" -> "YeNom"___.
 
 # Change Log
 
-__v1.7.x @ Dev__
+__v1.8.x @ Dev__
 
   - ...
+
+__v1.7.11 @ Review__
+
+  - Change navigation bar style for mail view;
+  - Allow to enter 'Free Code' to turn 'Full Features' on;
+  - Modify default keyboard style for tag adding;
+  - Fix record tag's frame width;
+  - Enable purchase for 'Full Features';
+  - Fix navigation bar back button's state: back to previous view from donate view when loading timeout;
+  - Modify options (Fast, Normal, Slow) for delay time setting;
+  - Offer an action sheet to user for confirming to delete the tag;
+  - Reset selected cell index after remove the tag item;
+  - Optimize performance;
+  - Change icon;
+  - Add basic calculation function for number pad;
+  - Change system keyboard to customize keyboard for number pad.
 
 __v1.6.8 @ 2012-08-23__
 
