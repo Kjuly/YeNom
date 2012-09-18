@@ -39,7 +39,7 @@ __v1.8.x @ Dev__
 
   - ...
 
-__v1.7.11 @ Review__
+__v1.7.11 @ 2012-09-19__
 
   - Change navigation bar style for mail view;
   - Allow to enter 'Free Code' to turn 'Full Features' on;
