@@ -35,9 +35,14 @@ __数据管理__：
 
 # 更新日志
   
-__v1.8.x @ 开发中__
+__v1.9.x @ 开发中__
 
   - ...
+
+__v1.8.3 @ 审核中__
+
+  - 修复错误：iOS6 之后，textfiled被程序化编辑后系统将不再发送`UITextFieldTextDidChangeNotification`通知；
+  - 针对iPhone 5 的兼容性更新。
 
 __v1.7.11 @ 2012-09-19__
 
