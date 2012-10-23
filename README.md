@@ -39,7 +39,7 @@ __v1.9.x @ Dev__
 
   - ...
 
-__v1.8.3 @ Review__
+__v1.8.3 @ 2012-10-23__
 
   - Fix a bug on iOS6: UITextFieldTextDidChangeNotification will not be sent when textfield was changed programmatically;
   - Fix layout for iPhone 5's 4" screen.
