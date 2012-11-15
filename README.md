@@ -35,9 +35,17 @@ __Data Management__:
 
 # Change Log
 
-__v1.9.x @ Dev__
+__v1.10.x @ Dev__
 
   - ...
+
+__v1.9.5 @ Review__
+
+  - Modify photo preview style (full screen, enable scrolling & zooming, etc);
+  - Modify the size of default photo;
+  - Fix localization in action sheet for deleting the photo;
+  - Asynchronously load image after taking the photo;
+  - Enable date modification (included in "Full Features" package).
 
 __v1.8.3 @ 2012-10-23__
 
