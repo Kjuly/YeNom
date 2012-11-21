@@ -39,7 +39,7 @@ __v1.10.x @ Dev__
 
   - ...
 
-__v1.9.5 @ Review__
+__v1.9.5 @ 2012-11-21__
 
   - Modify photo preview style (full screen, enable scrolling & zooming, etc);
   - Modify the size of default photo;
