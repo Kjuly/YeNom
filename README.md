@@ -35,63 +35,69 @@ __Data Management__:
 
 # Change Log
 
-__v1.10.x @ Dev__
+__v2.1.x @ Dev__
 
   - ...
 
+__v2.0.1 @ Review__
+
+  - Reconstruct code of basic functions and optimize performance;
+  - Fix bug for item's value color changing in settings table view;
+  - Part style & feature modification.
+
 __v1.9.5 @ 2012-11-21__
 
-  - Modify photo preview style (full screen, enable scrolling & zooming, etc);
-  - Modify the size of default photo;
-  - Fix localization in action sheet for deleting the photo;
+  - Enable date modification (included in "Full Features" package);
   - Asynchronously load image after taking the photo;
-  - Enable date modification (included in "Full Features" package).
+  - Fix localization in action sheet for deleting the photo;
+  - Modify the size of default photo;
+  - Modify photo preview style (full screen, enable scrolling & zooming, etc).
 
 __v1.8.3 @ 2012-10-23__
 
-  - Fix a bug on iOS6: UITextFieldTextDidChangeNotification will not be sent when textfield was changed programmatically;
-  - Fix layout for iPhone 5's 4" screen.
+  - Fix layout for iPhone 5's 4" screen;
+  - Fix a bug on iOS6: UITextFieldTextDidChangeNotification will not be sent when textfield was changed programmatically.
 
 __v1.7.11 @ 2012-09-19__
 
-  - Change navigation bar style for mail view;
-  - Allow to enter 'Free Code' to turn 'Full Features' on;
-  - Modify default keyboard style for tag adding;
-  - Fix record tag's frame width;
-  - Enable purchase for 'Full Features';
-  - Fix navigation bar back button's state: back to previous view from donate view when loading timeout;
-  - Modify options (Fast, Normal, Slow) for delay time setting;
-  - Offer an action sheet to user for confirming to delete the tag;
-  - Reset selected cell index after remove the tag item;
-  - Optimize performance;
-  - Change icon;
+  - Change system keyboard to customize keyboard for number pad;
   - Add basic calculation function for number pad;
-  - Change system keyboard to customize keyboard for number pad.
+  - Change icon;
+  - Optimize performance;
+  - Reset selected cell index after remove the tag item;
+  - Offer an action sheet to user for confirming to delete the tag;
+  - Modify options (Fast, Normal, Slow) for delay time setting;
+  - Fix navigation bar back button's state: back to previous view from donate view when loading timeout;
+  - Enable purchase for 'Full Features';
+  - Fix record tag's frame width;
+  - Modify default keyboard style for tag adding;
+  - Allow to enter 'Free Code' to turn 'Full Features' on;
+  - Change navigation bar style for mail view.
 
 __v1.6.8 @ 2012-08-23__
 
-  - Fix bug: Selecting a row in one section leads the same row of another section to expand either;
-  - Fix bug for statistics: Double count for 00:00 and 24:00;
-  - Fix bug: Delete the data at 00:00 of next month incorrectly while deleting one month's data;
-  - Allow user to delete all records for one month; 
-  - Rename "Delay Time for Swipe Gesture" to "Delay TIme" in settings view;
-  - Optimize performance;
+  - Modify statistics view: support month & day statistics;
   - Support year setting in statistics view;
-  - Modify statistics view: support month & day statistics.
+  - Optimize performance;
+  - Rename "Delay Time for Swipe Gesture" to "Delay TIme" in settings view;
+  - Allow user to delete all records for one month; 
+  - Fix bug: Delete the data at 00:00 of next month incorrectly while deleting one month's data;
+  - Fix bug for statistics: Double count for 00:00 and 24:00;
+  - Fix bug: Selecting a row in one section leads the same row of another section to expand either.
 
 __v1.5.4 @ 2012-08-23__
 
-  - Allow user to toggle iCloud service;
+  - Enable to delete a single record;
   - Add iCloud;
-  - Enable to delete a single record.
+  - Allow user to toggle iCloud service.
 
 __v1.4.3 @ 2012-08-09__
 
-  - Add some help views for gestures;
-  - Fix a bug: Adding the first record leads the font size to be wrong;
-  - Remove `+` / `-` button in the root view, use drag-and-hold gesture only;
+  - Add In-App Purchase for donation;
   - Part UI modified;
-  - Add In-App Purchase for donation.
+  - Remove `+` / `-` button in the root view, use drag-and-hold gesture only;
+  - Fix a bug: Adding the first record leads the font size to be wrong;
+  - Add some help views for gestures.
 
 __v1.2.4 @ 2012-07-26__
 
