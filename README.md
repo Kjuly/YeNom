@@ -39,7 +39,7 @@ __v2.1.x @ Dev__
 
   - ...
 
-__v2.0.1 @ Review__
+__v2.0.1 @ 2012-12-05__
 
   - Reconstruct code of basic functions and optimize performance;
   - Fix bug for item's value color changing in settings table view;
