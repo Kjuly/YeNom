@@ -35,9 +35,17 @@ __Data Management__:
 
 # Change Log
 
-__v2.1.x @ Dev__
+__v2.2.x @ Dev__
 
   - ...
+
+__v2.1.5 @ Review__
+
+  - Fix title for keyboard help view;
+  - Enable item modification (included in "Full Features" package);
+  - Generate record without inserting into database before confirm the settings;
+  - Fix a crash bug after inserted a new record for a new month;
+  - Change method for deleting item: Select the item, swipe to right or left to confirm delete.
 
 __v2.0.1 @ 2012-12-05__
 
