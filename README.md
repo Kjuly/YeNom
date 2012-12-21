@@ -39,7 +39,7 @@ __v2.2.x @ Dev__
 
   - ...
 
-__v2.1.5 @ Review__
+__v2.1.5 @ 2012-12-21__
 
   - Fix title for keyboard help view;
   - Enable item modification (included in "Full Features" package);
