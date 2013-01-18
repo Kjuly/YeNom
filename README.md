@@ -37,7 +37,8 @@ __Data Management__:
 
 __v2.3.x @ Dev__
 
-  - ...
+  - 
+  - .
 
 __v2.2.4 @ Review__
 
