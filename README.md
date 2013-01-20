@@ -37,10 +37,13 @@ __Data Management__:
 
 __v2.3.x @ Dev__
 
-  - 
   - .
 
-__v2.2.4 @ Review__
+__v2.2.5 @ Review__
+
+  - Re-enable to view the income/expenses count for the selected month/day.
+
+__v2.2.4 @ 2013-01-10__
 
   - Update UI;
   - Modify statistics view;
