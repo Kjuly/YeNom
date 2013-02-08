@@ -35,11 +35,16 @@ __Data Management__:
 
 # Change Log
 
-__v2.3.x @ Dev__
+__v2.4.x @ Dev__
 
   - .
 
-__v2.2.5 @ Review__
+__v2.3.1 @ Review__
+
+  - Modify style for record setting view;
+  - Add custom date picker (included in "Full Features" package).
+
+__v2.2.5 @ 2013-01-25__
 
   - Re-enable to view the income/expenses count for the selected month/day.
 
