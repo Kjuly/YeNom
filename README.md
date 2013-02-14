@@ -37,9 +37,10 @@ __Data Management__:
 
 __v2.4.x @ Dev__
 
+  - Fix bug: Remove date picker when cancel from date setting state;
   - .
 
-__v2.3.1 @ Review__
+__v2.3.1 @ 2013-02-14__
 
   - Modify style for record setting view;
   - Add custom date picker (included in "Full Features" package).
