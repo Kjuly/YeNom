@@ -9,6 +9,10 @@ It is a simple tool which records your daily spending.
 
 [__View In App Store__](http://itunes.apple.com/us/app/yenom/id543028543?ls=1&mt=8)
 
+# Demo
+
+[YouTube](http://youtu.be/ygzyvL2aKwg) | [YouKu](http://v.youku.com/v_show/id_XNTE0NDkzNjAw.html)
+
 # Usage
 
 __Root View__:

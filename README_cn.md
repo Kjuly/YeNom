@@ -9,6 +9,10 @@ YeNom - 一个iOS上简单方便的记帐工具。
 
 [__进入应用商店__](http://itunes.apple.com/cn/app/yenom/id543028543?ls=1&mt=8)
 
+# 演示视频
+
+[YouTube](http://youtu.be/ygzyvL2aKwg) | [YouKu](http://v.youku.com/v_show/id_XNTE0NDkzNjAw.html)
+
 # 操作说明
 
 __主界面__：
