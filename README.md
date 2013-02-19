@@ -39,10 +39,14 @@ __Data Management__:
 
 # Change Log
 
-__v2.4.x @ Dev__
+__v2.5.x @ Dev__
+
+  - .
+
+__v2.4.2 @ Review__
 
   - Fix bug: Remove date picker when cancel from date setting state;
-  - .
+  - Enable to export records date as a PDF file (included in "Full Features" package).
 
 __v2.3.1 @ 2013-02-14__
 
