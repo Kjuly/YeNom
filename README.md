@@ -9,10 +9,6 @@ It is a simple tool which records your daily spending.
 
 [__View In App Store__](http://itunes.apple.com/us/app/yenom/id543028543?ls=1&mt=8)
 
-# Demo
-
-[YouTube](http://youtu.be/ygzyvL2aKwg) | [YouKu](http://v.youku.com/v_show/id_XNTE0NDkzNjAw.html)
-
 # Usage
 
 __Root View__:
@@ -24,7 +20,7 @@ __Keyboard__:
 
   - __Delete Backward__: Swipe RIGHT on keyboard or text field;
   - __Recover Backward__: Swipe LEFT;
-  - __Calculation__: This feature is included in "Full Features" package, which is needed to purchase.
+  - __Calculation__: Include simple calculation.<strike>This feature is included in "Full Features" package, which is needed to purchase.</strike>
 
 __Tag View__:
 
@@ -39,11 +35,16 @@ __Data Management__:
 
 # Change Log
 
-__v2.5.x @ Dev__
+__v3.1.0 @ Dev__
 
-  - .
+  - ...
 
-__v2.4.2 @ Review__
+__v3.0.0 @ Review__
+
+  - Fix bugs on iOS7;
+  - Unlock "Full Features".
+
+__v2.4.2 @ 2013-02-25__
 
   - Fix bug: Remove date picker when cancel from date setting state;
   - Enable to export records date as a PDF file (included in "Full Features" package).
@@ -51,9 +52,9 @@ __v2.4.2 @ Review__
 __v2.3.1 @ 2013-02-14__
 
   - Modify style for record setting view;
-  - Add custom date picker (included in "Full Features" package).
+  - Add custom date picker (include in "Full Feature" package).
 
-__v2.2.5 @ 2013-01-25__
+__v2.2.5 @ 2013-01-24__
 
   - Re-enable to view the income/expenses count for the selected month/day.
 
