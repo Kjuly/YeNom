@@ -39,7 +39,7 @@ __v3.1.0 @ Dev__
 
   - ...
 
-__v3.0.0 @ Review__
+__v3.0.0 @ 2014-01-09__
 
   - Fix bugs on iOS7;
   - Unlock "Full Features".
