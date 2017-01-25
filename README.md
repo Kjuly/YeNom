@@ -7,7 +7,7 @@ Project Page for YeNom - A cash recording utility on iOS.
 
 It is a simple tool which records your daily spending.
 
-[__View In App Store__](http://itunes.apple.com/us/app/yenom/id543028543?ls=1&mt=8)
+[__View In App Store__](https://itunes.apple.com/us/app/yenom/id1120637689?ls=1&mt=8)
 
 # Usage
 
