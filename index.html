@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Yenom by Kjuly</title>
+    <title>YeNom by Kjuly</title>
 
     <link rel="stylesheet" href="KYProjectPageTheme/stylesheets/styles.css">
     <link rel="stylesheet" href="KYProjectPageTheme/stylesheets/pygment_trac.css">
@@ -34,169 +34,64 @@
 <section>
 <h1 id="description">Description</h1>
 
-<p>It's super easy to add income/expense record by pulling down/up the records view. With a beautiful UI, the income/expense records are ordered with different colors (green for income & red for expenses). What's more, a statistics view is offered. You can view statistics on 1 year or month, or even a single day clearly!</p>
-<a href="http://itunes.apple.com/app/id543028543" target="_blank"><div id="download"></div></a>
+<p>A finance utility, record your daily income or expense quickly.</p>
+<a href="https://itunes.apple.com/app/id1120637689" target="_blank"><div id="download"></div></a>
 
+<!--
 <h1 id="demo">Demo</h1>
 <p><a href="http://youtu.be/ygzyvL2aKwg" target="_blank">YouTube</a> | <a href="http://v.youku.com/v_show/id_XNTE0NDkzNjAw.html" target="_blank">YouKu</a></p>
+-->
 
 <h1 id="usage">Usage</h1>
 
 <p><strong>Root View</strong>:</p>
 <ul>
-<li>Drag the table view down (up) and hold a second to open the record setting view for income (expenses);</li>
-<li>You can change the delay time in settings view, and there're three options (Fast, Normal, Slow) available.</li>
+<li>Pull the table view down / up and hold a while (time interval can be changed in Settings - General - Delay Time) to open the record setting view for income / expenses;</li>
+<li>3D Touch on icon is available, you can add Income / Expense directly from home screen.</li>
 </ul>
 
-<p><strong>Keyboard</strong>:</p>
+<p><strong>Keyboard for Record Amount Field</strong>:</p>
 <ul>
   <li><strong>Delete Backward</strong>: Swipe RIGHT on keyboard or text field;</li>
   <li><strong>Recover Backward</strong>: Swipe LEFT;</li>
-  <li><strong>Calculation</strong>: Include simple calculation. <strike>This feature is included in "Full Features" package, which is needed to purchase.</strike></li>
+  <li><strong>Calculation</strong>: Include simple calculation.</li>
 </ul>
 
 <p><strong>Tag View</strong>:</p>
 <ul>
-  <li>Drag the table view down to add a new tag.</li>
+  <li>Show tags list by pressing the tag area below record amount field;</li>
+  <li>Show tags searching field by pressing the tag area again in tags list view;</li>
+  <li>Press zero count tag's "+" button can convert the tag into category, and you can select tags for this category;</li>
+  <li>In Settings - General - Tag Chain, you can set chain tags;</li>
+  <li>Tags summary report can be found by pressing Pie Chart in report view.</li>
+</ul>
+
+<p><strong>Report</strong>:</p>
+<ul>
+  <li>By pressing records month section, you can get report for related month, swipe up / down to swich to next / previous month;</li>
+  <li>For the report in main menu, you can view reports in expected date range.</li>
 </ul>
 
 <p><strong>Data Management</strong>:</p>
 <ul>
-  <li>You can clean all <strong>records</strong> or <strong>tags</strong> in settings view's "<strong>Data Management</strong>" section;</li>
-  <li>Photos are stored in Albums with the name of "<strong>YeNom Photo Lib</strong>";<br>
-  <strong>Note</strong>: <em>Photo related features haven't managed very well right now, sorry for that!</em></li>
-  <li>If iCloud is enabled, data will be stored on remote server. You can get the storage info through your <strong><em>"Settings.App" -&gt; "iCloud" -&gt; "Storage &amp; Backup" -&gt; "Manage Storage" -&gt; "YeNom"</em></strong>.</li>
+  <li><strong>Settings - LDM - Import</strong>: You can import data from CSV via API (will add more doc about it in the future);</li>
+  <li><strong>Settings - LDM - Export</strong>: You can export local data as CSV or PDF;</li>
+  <li><strong>Settings - Data Sync - Synchronization</strong>: You can use iCloud sync for multiple devices sync, sync history will be available when it's ON;</li>
+  <li>Photos are stored in Album named "<strong>YeNom</strong>".<br>
 </ul>
 
 <h1 id="change-log">Change Log</h1>
-
-<p><strong>v3.1.x @ Dev</strong></p>
-<ul>
-  <li>...</li>
-</ul>
-
-<p><strong>v3.0.0 @ 2014-01-09</strong></p>
-<ul>
-  <li>Fix bugs on iOS7;</li>
-  <li>Unlock "Full Features".</li>
-</ul>
-
-<p><strong>v2.4.2 @ 2013-02-25</strong></p>
-<ul>
-  <li>Fix bug: Remove date picker when cancel from date setting state;</li>
-  <li>Enable to export records date as a PDF file (included in "Full Features" package).</li>
-</ul>
-
-<p><strong>v2.3.1 @ 2013-02-14</strong></p>
-<ul>
-  <li>Modify style for record setting view;</li>
-  <li>Add custom date picker (included in "Full Features" package).</li>
-</ul>
-
-<p><strong>v2.2.5 @ 2013-01-25</strong></p>
-<ul>
-  <li>Re-enable to view the income/expenses count for the selected month/day.</li>
-</ul>
-
-<p><strong>v2.2.4 @ 2013-01-10</strong></p>
-<ul>
-  <li>Update UI;</li>
-  <li>Modify statistics view;</li>
-  <li>Fix bug for UI blocking after added a new record (iOS 6);</li>
-  <li>Fix bug for background freshing between empty data & none-empty data situation.</li>
-</ul>
-
-<p><strong>v2.1.5 @ 2012-12-21</strong></p>
-<ul>
-  <li>Fix title for keyboard help view;</li>
-  <li>Enable item modification (included in "Full Features" package);</li>
-  <li>Generate record without inserting into database before confirm the settings;</li>
-  <li>Fix a crash bug after inserted a new record for a new month;</li>
-  <li>Change method for deleting item: Select the item, swipe to right or left to confirm delete.</li>
-</ul>
-
-<p><strong>v2.0.1 @ 2012-12-05</strong></p>
-<ul>
-  <li>Reconstruct code of basic functions and optimize performance;</li>
-  <li>Fix bug for item's value color changing in settings table view;</li>
-  <li>Part style & feature modification.</li>
-</ul>
-
-<p><strong>v1.9.5 @ 2012-11-21</strong></p>
-<ul>
-  <li>Enable date modification (included in "Full Features" package);</li>
-  <li>Asynchronously load image after taking the photo;</li>
-  <li>Fix localization in action sheet for deleting the photo;</li>
-  <li>Modify the size of default photo;</li>
-  <li>Modify photo preview style (full screen, enable scrolling & zooming, etc).</li>
-</ul>
-
-<p><strong>v1.8.3 @ 2012-10-23</strong></p>
-<ul>
-  <li>Fix layout for iPhone 5's 4" screen;</li>
-  <li>Fix a bug on iOS6: UITextFieldTextDidChangeNotification will not be sent when textfield was changed programmatically.</li>
-</ul>
-
-<p><strong>v1.7.11 @ 2012-09-19</strong></p>
-<ul>
-  <li>Change system keyboard to customize keyboard for number pad;</li>
-  <li>Add basic calculation function for number pad;</li>
-  <li>Change icon;</li>
-  <li>Optimize performance;</li>
-  <li>Reset selected cell index after remove the tag item;</li>
-  <li>Offer an action sheet to user for confirming to delete the tag;</li>
-  <li>Modify options (Fast, Normal, Slow) for delay time setting;</li>
-  <li>Fix navigation bar back button's state: back to previous view from donate view when loading timeout;</li>
-  <li>Enable purchase for 'Full Features';</li>
-  <li>Fix record tag's frame width;</li>
-  <li>Modify default keyboard style for tag adding;</li>
-  <li>Allow to enter 'Free Code' to turn 'Full Features' on;</li>
-  <li>Change navigation bar style for mail view.</li>
-</ul>
-
-<p><strong>v1.6.8 @ 2012-08-23</strong></p>
-<ul>
-  <li>Modify statistics view: support month and day statistics;</li>
-  <li>Support year setting in statistics view;</li>
-  <li>Optimize performance;</li>
-  <li>Rename "Delay Time for Swipe Gesture" to "Delay TIme" in settings view;</li>
-  <li>Allow user to delete all records for one month;</li>
-  <li>Fix bug: Delete the data at 00:00 of next month incorrectly while deleting one month's data;</li>
-  <li>Fix bug for statistics: Double count for 00:00 and 24:00;</li>
-  <li>Fix bug: Selecting a row in one section leads the same row of another section to expand either;</li>
-  <li>Modify statistics view.</li>
-</ul>
-
-<p><strong>v1.5.4 @ 2012-08-23</strong></p><!--Beta Test<a href="https://testflightapp.com/join/66e9a8d90aa54268ca89adbdfc457ab6-MTAyODU2/"><strong> &gt; Apply</strong></a></strong></p-->
-<ul>
-  <li>Enable to delete a single record;</li>
-  <li>Add iCloud;</li>
-  <li>Allow user to toggle iCloud service.</li>
-</ul>
-
-<p><strong>v1.4.3 @ 2012-08-09</strong></p>
-<ul>
-  <li>Add In-App Purchase for donation;</li>
-  <li>Part UI modified;</li>
-  <li>Remove <code>+</code> / <code>-</code> button in the root view, use drag-and-hold gesture only;</li>
-  <li>Fix a bug: Adding the first record leads the font size to be wrong;</li>
-  <li>Add some help views for gestures.</li>
-</ul>
-
-<p><strong>v1.2.4 @ 2012-07-26</strong></p>
-<ul>
-  <li>The first released version on App Store.</li>
-</ul>
+<p>Refer to <a href="https://github.com/Kjuly/YeNom#change-log" target="_blank">"Change Log"</a> section in README.</p>
 
 <h1 id="feedback">Feedback</h1>
 <p>
-  Please email your comments, suggestions and questions to <code>dev#kjuly.com</code>.<br>
+  Please email your comments, suggestions and questions to <code>support#kjuly.com</code>.<br>
   Or you can just post a bug report or a feature request <a href="https://github.com/Kjuly/YeNom/issues/new"><strong>HERE</strong></a>.
 </p>
 <p>Thank you! :)</p>
 
 <hr />
-<small>Page last modified on Jan 15, 2014 by <a href="https://github.com/Kjuly">Kjuly</a>.</small>
+<small>Page last modified on Jan 25, 2017 by <a href="https://github.com/Kjuly">Kjuly</a>.</small>
 
 </section>
 
@@ -206,14 +101,14 @@
   <p><small>
     Hosted on GitHub Pages<br/>
     Designed by <a href="https://github.com/Kjuly">Kjuly</a>, based on the Theme by <a href="https://github.com/orderedlist">orderedlist</a><br/>
-    © 2012 - 2014 Kjuly
+    © 2012 - 2017 Kjuly
   </small></p>
 </footer>
 <!-- FOOTER END -->
 
 </div>
 <script src="KYProjectPageTheme/javascripts/scale.fix.js"></script>
-    
+
   </body>
 </html>
 

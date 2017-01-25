@@ -13,33 +13,57 @@ It is a simple tool which records your daily spending.
 
 __Root View__:
 
-  - Drag the table view down (up) and hold a second to open the record setting view for income (expenses);
-  - You can change the delay time in settings view, and there're three options (Fast, Normal, Slow) available.
+  - Pull the table view down / up and hold a while (time interval can be changed in Settings - General - Delay Time) to open the record setting view for income / expenses;
+  - 3D Touch on icon is available, you can add Income / Expense directly from home screen.
 
-__Keyboard__:
+__Keyboard for Record Amount Field__:
 
   - __Delete Backward__: Swipe RIGHT on keyboard or text field;
   - __Recover Backward__: Swipe LEFT;
-  - __Calculation__: Include simple calculation.<strike>This feature is included in "Full Features" package, which is needed to purchase.</strike>
+  - __Calculation__: Include simple calculation.
 
 __Tag View__:
 
-  - Drag the table view down to add a new tag.
+  - Show tags list by pressing the tag area below record amount field;
+  - Show tags searching field by pressing the tag area again in tags list view;
+  - Press zero count tag's "+" button can convert the tag into category, and you can select tags for this category;
+  - In Settings - General - Tag Chain, you can set chain tags;
+  - Tags summary report can be found by pressing Pie Chart in report view.
 
-__Data Management__:  
+__Report__:
 
-  - You can clean all __records__ or __tags__ in settings view's "__Data Management__" section;  
-  - Photos are stored in Albums with the name of "__YeNom Photo Lib__";  
-**Note**: _Photo related features haven't managed very well right now, sorry for that!_  
-  - If iCloud is enabled, data will be stored on remote server. You can get the storage info through your ___"Settings.App" -> "iCloud" -> "Storage & Backup" -> "Manage Storage" -> "YeNom"___.
+  - By pressing records month section, you can get report for related month, swipe up / down to swich to next / previous month;
+  - For the report in main menu, you can view reports in expected date range.
+
+__Data Management__:
+
+  - __Settings - LDM - Import__: You can import data from CSV via API (will add more doc about it in the future);
+  - __Settings - LDM - Export__: You can export local data as CSV or PDF;
+  - __Settings - Data Sync - Synchronization__: You can use iCloud sync for multiple devices sync, sync history will be available when it's ON;
+  - Photos are stored in Album named "__YeNom__".
 
 # Change Log
 
-__v3.1.0 @ Dev__
+__v3.2.x @ Dev__
 
   - ...
 
-__v3.0.0 @ Review__
+__v3.1.2 @ 2017-01-25__
+
+  - Support multiple accounts;
+  - Support grouping tags into category;
+  - Support tag chain;
+  - Improve report;
+  - Support exporting report as CSV;
+  - Improve record photo related func;
+  - Improve record date picker;
+  - Support record & tag searching;
+  - Introduce new iCloud Sync func;
+  - Support 3D touch to add record from home screen;
+  - Improve UI & performance;
+  - etc.
+
+__v3.0.0 @ 2014-01-09__
 
   - Fix bugs on iOS7;
   - Unlock "Full Features".
@@ -114,7 +138,7 @@ __v1.6.8 @ 2012-08-23__
   - Support year setting in statistics view;
   - Optimize performance;
   - Rename "Delay Time for Swipe Gesture" to "Delay TIme" in settings view;
-  - Allow user to delete all records for one month; 
+  - Allow user to delete all records for one month;
   - Fix bug: Delete the data at 00:00 of next month incorrectly while deleting one month's data;
   - Fix bug for statistics: Double count for 00:00 and 24:00;
   - Fix bug: Selecting a row in one section leads the same row of another section to expand either.
@@ -139,7 +163,7 @@ __v1.2.4 @ 2012-07-26__
 
 # Feedback
 
-Please email your comments, suggestions and questions to `dev#kjuly.com`.  
+Please email your comments, suggestions and questions to `support#kjuly.com`.
 Or you can just post a bug report or a feature request [__HERE__](https://github.com/Kjuly/YeNom/issues/new).
 
 Thank you! :)
