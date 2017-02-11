@@ -44,9 +44,15 @@ __Data Management__:
 
 # Change Log
 
-__v3.2.x @ Dev__
+__v3.1.4 @ Dev__
 
   - ...
+
+__v3.1.3 @ Review__
+
+  - Use compressed ZIP file as attachment for mailing report;
+  - Support exporting multiple reports at same time;
+  - UI fine-tuned.
 
 __v3.1.2 @ 2017-01-25__
 
