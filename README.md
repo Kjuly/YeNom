@@ -44,12 +44,9 @@ __Data Management__:
 
 # Change Log
 
-__v3.1.4 @ Dev__
+__v3.1.4 @ 2017-02-20__
 
-  - ...
-
-__v3.1.3 @ Review__
-
+  - Introduce "Data Sync Debug Mode" (Settings - Data Sync - Synchronization);  
   - Use compressed ZIP file as attachment for mailing report;
   - Support exporting multiple reports at same time;
   - UI fine-tuned.
