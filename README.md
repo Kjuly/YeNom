@@ -44,6 +44,12 @@ __Data Management__:
 
 # Change Log
 
+__v3.1.6 @ 2017-03-08__
+
+  - Support currency format setting (Settings - General - Currency Format);  
+  - Optimise iCloud Sync;  
+  - Optimise layout for different devices.  
+
 __v3.1.4 @ 2017-02-20__
 
   - Introduce "Data Sync Debug Mode" (Settings - Data Sync - Synchronization);  
