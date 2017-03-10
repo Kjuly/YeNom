@@ -44,6 +44,11 @@ __Data Management__:
 
 # Change Log
 
+__v3.1.7 @ 2017-03-10__
+
+  - Fine-tune record edit view;  
+  - Add more logs for "Data Sync Debug Mode".  
+
 __v3.1.6 @ 2017-03-08__
 
   - Support currency format setting (Settings - General - Currency Format);  
