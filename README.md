@@ -44,6 +44,11 @@ __Data Management__:
 
 # Change Log
 
+__v3.1.9 @ 2017-04-13__
+
+  - Fix issue: Cannot create non-English tag;  
+  - Fix some typos.
+
 __v3.1.7 @ 2017-03-10__
 
   - Fine-tune record edit view;  
