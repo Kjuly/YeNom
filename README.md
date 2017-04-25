@@ -44,6 +44,12 @@ __Data Management__:
 
 # Change Log
 
+__v3.1.10 @ 2017-04-25__
+
+  - Fix issue: Third party keyboard conflicts w/ default record number keyboard;  
+  - Update help view for record number keyboard;  
+  - Support zero amount record.
+
 __v3.1.9 @ 2017-04-13__
 
   - Fix issue: Cannot create non-English tag;  
