@@ -44,6 +44,19 @@ __Data Management__:
 
 # Change Log
 
+__v3.2.0 @ 2017-06-27__
+
+  - Support specific currency setting for different accounts;
+  - Support custom encoding format for exporting report;
+  - Support tag name & amount sorting in tags report (by tapping on section title);
+  - Remove original tags filter view, and support it in tags report;
+  - Reflect records w/o any tag in reports;
+  - Optimise report date range selection component;
+  - Optimise report charts' preview indicator;
+  - Fix crash in save step whenever new account or tag name contains single quote;
+  - Some other bug fixes;
+  - Update lowest support version to iOS 9.
+
 __v3.1.10 @ 2017-04-25__
 
   - Fix issue: Third party keyboard conflicts w/ default record number keyboard;  
