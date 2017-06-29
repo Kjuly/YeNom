@@ -44,6 +44,11 @@ __Data Management__:
 
 # Change Log
 
+__v3.2.1 @ 2017-06-29__
+
+  - Optimize record date picker;
+  - Make "Package & Compress" as an optional way to mail exported reports.
+
 __v3.2.0 @ 2017-06-27__
 
   - Support specific currency setting for different accounts;
