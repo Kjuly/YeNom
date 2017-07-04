@@ -44,6 +44,10 @@ __Data Management__:
 
 # Change Log
 
+__v3.2.3 @ 2017-07-05__
+
+  - Fix issue: Cannot select last three accounts that beyond device screen height.
+
 __v3.2.1 @ 2017-06-29__
 
   - Optimize record date picker;
