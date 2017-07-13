@@ -44,6 +44,12 @@ __Data Management__:
 
 # Change Log
 
+__v3.2.4 @ 2017-07-15__
+
+  - Support custom date range selection for report view & data export view;  
+  - Update report view's records count info when filter records by type;
+  - Some UI fine-tunes.  
+
 __v3.2.3 @ 2017-07-05__
 
   - Fix issue: Cannot select last three accounts that beyond device screen height.
