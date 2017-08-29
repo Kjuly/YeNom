@@ -44,6 +44,11 @@ __Data Management__:
 
 # Change Log
 
+__v3.3.1 @ 2017-08-29__
+
+  - Add "Balance" column for exported Account Report;  
+  - Remove category management in original record’s tag selection view.  
+
 __v3.3.0 @ 2017-08-23__
 
   - New independent tag management view (provided in main menu, between Account & Report);  
