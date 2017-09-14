@@ -44,6 +44,10 @@ __Data Management__:
 
 # Change Log
 
+__v3.3.2 @ 2017-09-14__
+
+  - BUGFIX: Settings - Feedback - "Custom User Info" view's name fields cannot be saved.
+
 __v3.3.1 @ 2017-08-29__
 
   - Add "Balance" column for exported Account Report;  
