@@ -44,6 +44,10 @@ __Data Management__:
 
 # Change Log
 
+__v3.4.1 @ 2017-09-22__
+
+  - Introduce "Summary Widget" extension.     
+
 __v3.3.2 @ 2017-09-14__
 
   - BUGFIX: Settings - Feedback - "Custom User Info" view's name fields cannot be saved.
