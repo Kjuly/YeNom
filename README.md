@@ -44,6 +44,12 @@ __Data Management__:
 
 # Change Log
 
+__v3.5.0 @ 2017-10-10__
+
+  - Introduce "Auto-Lock" feature (Settings - Privacy - Auto-Lock), you can:  
+    - Unlock lock view w/ passcode or Touch ID if needed;  
+    - Add new record from lock view if needed.    
+
 __v3.4.1 @ 2017-09-22__
 
   - Introduce "Summary Widget" extension.     
