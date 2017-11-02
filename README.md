@@ -44,6 +44,11 @@ __Data Management__:
 
 # Change Log
 
+__v3.5.2 @ 2017-11-02__
+
+  - Fine-tune layout for iPhone X;
+  - Support Unlock w/ Face ID if available.
+
 __v3.5.1 @ 2017-10-11__
 
   - BUGFIX: Unable to add new record from lock view when it’s auto-locked from settings view.
