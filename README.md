@@ -44,6 +44,11 @@ __Data Management__:
 
 # Change Log
 
+__v3.5.5 @ 2017-11-11__
+
+  - When app is locked, do not allow to go to settings view directly from Widget’s "Go" button;  
+  - Provide more options to send exported reports.
+
 __v3.5.2 @ 2017-11-02__
 
   - Fine-tune layout for iPhone X;
