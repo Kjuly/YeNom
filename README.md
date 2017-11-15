@@ -44,6 +44,10 @@ __Data Management__:
 
 # Change Log
 
+__v3.5.6 @ 2017-11-15__
+
+  - Optimize Summary Widget's data updating logic.  
+
 __v3.5.5 @ 2017-11-11__
 
   - When app is locked, do not allow to go to settings view directly from Widget’s "Go" button;  
