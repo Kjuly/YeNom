@@ -44,6 +44,10 @@ __Data Management__:
 
 # Change Log
 
+__v3.6.1 @ 2018-01-23__
+
+  - Introduce new feature: Rule & Automation.  
+
 __v3.5.6 @ 2017-11-15__
 
   - Optimize Summary Widget's data updating logic.  
