@@ -44,6 +44,11 @@ __Data Management__:
 
 # Change Log
 
+__v3.6.2 @ 2018-01-24__
+
+  - Fix monthly & yearly rule’s day on setting logic;  
+  - Update description for rule outcome related fields.  
+
 __v3.6.1 @ 2018-01-23__
 
   - Introduce new feature: Rule & Automation.  
