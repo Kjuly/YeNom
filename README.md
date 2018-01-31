@@ -44,6 +44,11 @@ __Data Management__:
 
 # Change Log
 
+__v3.6.3 @ 2018-01-31__
+
+  - When add new record from manual rule, use amount editing by default if its outcome amount is ZERO;  
+  - Use 'YeNom - Summary' widget as 3D Touch home screen widget.  
+
 __v3.6.2 @ 2018-01-24__
 
   - Fix monthly & yearly rule’s day on setting logic;  
