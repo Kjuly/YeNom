@@ -44,6 +44,12 @@ __Data Management__:
 
 # Change Log
 
+__v3.6.5 @ 2018-02-07__
+  
+  - Optimize records timeline w/ paging supported;  
+  - Handle spotlight searching action w/ view locked case;  
+  - Fine tune help view.  
+
 __v3.6.3 @ 2018-01-31__
 
   - When add new record from manual rule, use amount editing by default if its outcome amount is ZERO;  
