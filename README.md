@@ -44,6 +44,10 @@ __Data Management__:
 
 # Change Log
 
+__v3.6.6 @ 2018-02-11__
+
+  - Support account sorting.
+
 __v3.6.5 @ 2018-02-07__
   
   - Optimize records timeline w/ paging supported;  
