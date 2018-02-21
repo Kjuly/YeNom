@@ -44,6 +44,10 @@ __Data Management__:
 
 # Change Log
 
+__v3.6.7 @ 2018-02-20__
+
+  - Some bug fixes for record pagination logic.  
+
 __v3.6.6 @ 2018-02-11__
 
   - Support account sorting.
