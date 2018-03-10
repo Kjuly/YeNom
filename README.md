@@ -44,6 +44,10 @@ __Data Management__:
 
 # Change Log
 
+__v3.6.9 @ 2018-03-10__  
+
+  - Tag Report Improvement: Provide related records detail.  
+
 __v3.6.8 @ 2018-03-06__
 
   - Do not show deactivated rule in Lock View & Rule Widget.  
