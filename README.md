@@ -44,6 +44,11 @@ __Data Management__:
 
 # Change Log
 
+__v3.6.10 @ 2018-03-21__  
+
+  - Provide way to extend tag report view;  
+  - Provide date range detail for report date selection button.  
+
 __v3.6.9 @ 2018-03-10__  
 
   - Tag Report Improvement: Provide related records detail.  
