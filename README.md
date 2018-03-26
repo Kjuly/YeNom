@@ -44,6 +44,11 @@ __Data Management__:
 
 # Change Log
 
+__v3.6.11 @ 2018-03-26__  
+
+  - Smoother tag report switching;  
+  - Fine-tune some UI elements.  
+
 __v3.6.10 @ 2018-03-21__  
 
   - Provide way to extend tag report view;  
