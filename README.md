@@ -44,6 +44,10 @@ __Data Management__:
 
 # Change Log
 
+__v3.6.12 @ 2018-04-02__  
+
+  - Move record filter option from menu to records timeline's left-top corner.  
+
 __v3.6.11 @ 2018-03-26__  
 
   - Smoother tag report switching;  
