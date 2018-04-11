@@ -44,6 +44,10 @@ __Data Management__:
 
 # Change Log
 
+__v3.6.13 @ 2018-04-11__  
+
+  - Support account switching in record edit view.  
+
 __v3.6.12 @ 2018-04-02__  
 
   - Move record filter option from menu to records timeline's left-top corner.  
