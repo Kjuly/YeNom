@@ -44,6 +44,10 @@ __Data Management__:
 
 # Change Log
 
+__v3.6.14 @ 2018-04-23__  
+
+  - BUGFIX: Cannot save tag's new name if just edit the name field.  
+
 __v3.6.13 @ 2018-04-11__  
 
   - Support account switching in record edit view.  
