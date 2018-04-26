@@ -44,6 +44,10 @@ __Data Management__:
 
 # Change Log
 
+__v3.6.16 @ 2018-04-26__  
+
+  - BUGFIX: Crash at Photo Picker setup step in devices w/ iOS 9.
+
 __v3.6.15 @ 2018-04-24__  
 
   - Update photo picker.
