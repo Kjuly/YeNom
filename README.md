@@ -44,6 +44,11 @@ __Data Management__:
 
 # Change Log
 
+__v3.7.1 @ 2018-05-28__  
+
+  - Show a button at records timeline's right-bottom if new tips available;  
+  - Provide all tips in "Settings - Help & Feedback - Tips" view.
+
 __v3.6.16 @ 2018-04-26__  
 
   - BUGFIX: Crash at Photo Picker setup step in devices w/ iOS 9.
