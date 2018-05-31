@@ -44,6 +44,11 @@ __Data Management__:
 
 # Change Log
 
+__v3.7.2 @ 2018-05-30__  
+
+  - Highlight part description for tips view;  
+  - Provide App Preview demo video.
+
 __v3.7.1 @ 2018-05-28__  
 
   - Show a button at records timeline's right-bottom if new tips available;  
