@@ -44,6 +44,10 @@ __Data Management__:
 
 # Change Log
 
+__v3.7.7 @ 2018-06-08__  
+
+  - Add "Contribution" row under "Settings - About" section.  
+
 __v3.7.2 @ 2018-05-30__  
 
   - Highlight part description for tips view;  
